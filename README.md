@@ -1,5 +1,5 @@
 # Mathematics
-This project is a C++ library for performing various mathematical and statistical operations. It includes modules for number theory, statistics, and number operations, making it useful for students, educators, and developers working on mathematical applications.
+This project is a C++ library for performing various mathematical and statistical operations. It includes modules for number theory, statistics, and number operations, making it useful for students, educators working on mathematical applications.
 
 ### Features
 #### Number theory 
